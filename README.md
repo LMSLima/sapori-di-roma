@@ -1,24 +1,22 @@
-# sapori-di-roma
+# Sapori di Roma 🍕  
 
-## Project setup
-```
-npm install
-```
+## 📌 1. Descrição do Projeto  
+Este projeto tem como objetivo criar um site para venda de pizzas, onde clientes podem visualizar o cardápio, fazer pedidos e acompanhar o status da entrega.  
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 🔍 2. Situação Problema (Cenário)  
+Atualmente, muitas pizzarias não possuem uma plataforma online eficiente para facilitar pedidos. Isso causa problemas como:  
+- Dificuldade na organização dos pedidos  
+- Clientes sem opção de pagamento online  
+- Falta de um sistema claro para acompanhar entregas  
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 💡 3. Proposta  
+Criar um site funcional que permitirá aos clientes fazerem pedidos de maneira rápida e intuitiva. O sistema contará com:  
+- Interface amigável para escolha de pizzas  
+- Integração com meios de pagamento  
+- Sistema de acompanhamento de pedidos  
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 👥 Integrantes  
+- Luiz Miguel Lima de Souza (@LMSLima)  
+- Vinicius Eduardo Hilario (@duardovinicius004)  
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+🔗 **Link do Projeto no GitHub:** [https://github.com/SEU-USUARIO/pizzaria-online](https://github.com/SEU-USUARIO/pizzaria-online)
